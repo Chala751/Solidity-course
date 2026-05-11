@@ -17,3 +17,11 @@ This repository contains the group work for the Alchemy University Learn Solidit
 ## Course Link
 
 https://www.alchemy.com/university/courses/solidity
+
+## Group Members (Section 3)
+
+1. Chala Temesgen - ugr/30356/15
+2. Dawit Worku - ugr/30395/15
+3. Hamza Kedir - ugr/30618/15
+4. Tomas Melesse - ugr/31318/15
+5. Wubegzer Alemayehu - ugr/31349/15
